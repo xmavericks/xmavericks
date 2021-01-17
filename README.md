@@ -25,7 +25,7 @@
 - 🌱 Learning Everyday, currently learning to master the [Management](https://en.wikipedia.org/wiki/Management) skills.
 - 👯 I'm always looking for collaborating work oppotunities in any software related field.
 - 🤔 I’m looking for help of Ghost Writer for my Novel which I want to write someday.
-- 💬 Ask me about an Idea? - I'll give you unique idea everday. 
+- 💬 Ask me about an Idea? - I'll give you unique idea everyday.
 - 📫 How to reach me: [Twitter - @pcmamod](https://twitter.com/pcmamod) , [Instagram - @amodkumarblog](https://www.instagram.com/amodkumarblog/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 14 hours sleeping out of 24 hours !
