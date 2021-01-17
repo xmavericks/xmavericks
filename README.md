@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [editorJS] - Personally developed code editor for JavaScript.
+- 🔭 I’m currently working on editor.js - Personally developed code editor for JavaScript.
 - 🌱 Learning Everyday, currently learning to master the [Management](https://en.wikipedia.org/wiki/Management) skills.
 - 👯 I'm always looking for collaborating work oppotunities in any software related field.
 - 🤔 I’m looking for help of Ghost Writer for my Novel which I want to write someday.
