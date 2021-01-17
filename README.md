@@ -1,6 +1,6 @@
 ## Hola, I'm [Amod Kumar!](https://xmavericks.github.io/) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="xmavericks" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Profile Views&color=blue&style=plastic" alt="xmavericks" /> </p>
 
 <a href="https://linkedin.com/in/amodkumarprofile">
   <img align="left" alt="Amod's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
