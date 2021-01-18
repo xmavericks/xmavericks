@@ -48,7 +48,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-<img align="center" src="https://camo.githubusercontent.com/61edf601fa4bdcd7072f5bae8281004dcfc7b396f006c056a8979bedd6356daa/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6179756c6f636b696e2673686f775f69636f6e733d74727565267468656d653d6461726b266c696e655f6865696768743d3237" alt="Amod's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=xmavericks&amp;show_icons=true&amp;theme=dark&amp;line_height=27" style="max-width:100%;">
+<img align="center" alt="Amod's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=xmavericks&amp;show_icons=true&amp;theme=dark&amp;line_height=27" style="max-width:100%;">
 
 <a href="https://github.com/mayankgbrc/Terroristic_chat_detector">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayankgbrc&repo=Terroristic_chat_detector&theme=light" />
