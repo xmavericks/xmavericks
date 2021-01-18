@@ -68,3 +68,6 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+<div align="center">
+### Thank you for visiting my GitHub profile, I hope you get a lot of information about my work!
+</div>
