@@ -28,7 +28,7 @@ xm## Hola, I'm [Amod Kumar!](https://xmavericks.github.io/) 👋
 - 💬 Ask me How am I doing? - I will say, just breathing!
 - 📫 How to reach me: [Portfolio - amodkumar](https://xmavericks.github.io/) , [Twitter - @pcmamod](https://twitter.com/pcmamod) , [Instagram - @amodkumarblog](https://www.instagram.com/amodkumarblog/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 4-5 hours reading books and listening podcasts out of 24 hours !
+- ⚡ Fun fact: I spend almost 4-5 hours reading books and listening podcasts out of 24 hours!
 
 [![Twitter: pcmamod](https://img.shields.io/twitter/follow/pcmamod?style=social)](https://twitter.com/pcmamod)
 [![Linkedin: amodkumarprofile](https://img.shields.io/badge/-amodkumarprofile-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amodkumarprofile/)](https://www.linkedin.com/in/amodkumarprofile/)
