@@ -56,7 +56,7 @@ xm## Hola, I'm [Amod Kumar!](https://xmavericks.github.io/) 👋
 </a>
 
 <a href="https://github.com/mayankgbrc/Terroristic_chat_detector">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayankgbrc&repo=Terroristic_chat_detector&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xmavericks&repo=Code_Editor.js&theme=light" />
 
 </a>
 <a href="https://github.com/xprilion/distpano">
