@@ -1,4 +1,4 @@
-## Hola, I'm [Amod Kumar!](https://xmavericks.github.io/) 👋
+xm## Hola, I'm [Amod Kumar!](https://xmavericks.github.io/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xmavericks&label=Profile Views&color=blue&style=plastic" alt="xmavericks" /> </p>
 
@@ -21,12 +21,12 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on editor.js - Personally developed code editor for JavaScript.
+- 🔭 I’m currently working on editor.js - Personally developed code editor for JavaScript. Currently woking on this, so that it can support multiple languages.
 - 🌱 Learning Everyday, currently learning to master the [Management](https://en.wikipedia.org/wiki/Management) skills.
-- 👯 I'm always looking for collaborating work oppotunities in any software related field.
-- 🤔 I’m looking for help of Ghost Writer for my Novel which I want to write someday.
-- 💬 Ask me about an Idea? - I'll give you unique idea everyday.
-- 📫 How to reach me: [Twitter - @pcmamod](https://twitter.com/pcmamod) , [Instagram - @amodkumarblog](https://www.instagram.com/amodkumarblog/)
+- 👯 I'm always looking for collaborating in any kind of work in software.
+- 🤔 I’m looking for help of Ghost Writer for my Novel which I want to write.
+- 💬 Ask me How am I doing? - I will say, just breathing!
+- 📫 How to reach me: [Portfolio - amodkumar](https://xmavericks.github.io/) , [Twitter - @pcmamod](https://twitter.com/pcmamod) , [Instagram - @amodkumarblog](https://www.instagram.com/amodkumarblog/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 4-5 hours reading books and listening podcasts out of 24 hours !
 
