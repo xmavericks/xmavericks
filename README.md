@@ -1,4 +1,4 @@
-xm## Hola, I'm [Amod Kumar!](https://xmavericks.github.io/) 👋
+## Hola, I'm [Amod Kumar!](https://xmavericks.github.io/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xmavericks&label=Profile Views&color=blue&style=plastic" alt="xmavericks" /> </p>
 
